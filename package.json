@@ -1,0 +1,17 @@
+{
+  "name": "newsbot",
+  "version": "1.0.0",
+  "description": "A bot that delivers latest news",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Alyssa Ong",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "later": "^1.2.0",
+    "request-promise": "^4.1.1",
+    "restify": "^4.1.1"
+  }
+}
