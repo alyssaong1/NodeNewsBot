@@ -26,8 +26,14 @@ You will need to create a bot on [Microsoft Bot Framework](https://dev.botframew
 
 I'll be posting a more detailed tutorial of this in future.
 
+##Future Extensions
+
+I'll be implementing the following features at some point in the future:
+- Using [LUIS](https://www.luis.ai), Microsoft's NLP processing engine for advanced dialogs
+- Daily notifications
+
 ##Contributing
-Feel free to contribute to this project! Follow the following guidelines:
+Feel free to contribute to this project! Use the following guidelines:
 
 1. Fork the repo on GitHub
 2. Clone the project to your own machine
